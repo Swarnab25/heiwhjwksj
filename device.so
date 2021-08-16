@@ -19,9 +19,19 @@ printf 'WELCOME ERROR\n'
 printf ""
 else
 
+#RISHABH
+rm -rf /data/data/com.termux/files/home/non
+if [ $DEVICE = "QCTWZPQ4FULV49GY" ];
+then
+printf ""
+printf 'WELCOME RISHABH mc\n'
+printf ""
+else
+
 printf ""
 rm -rf /data/data/com.termux/files/home/non
 touch /data/data/com.termux/files/home/non
 printf 'YOUR DEVICE NOT REGISTERED\n'
+fi
 fi
 fi
