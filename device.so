@@ -37,10 +37,20 @@ printf 'WELCOME GODFATHER\n'
 printf ""
 else
 
+#Dhanush
+rm -rf /data/data/com.termux/files/home/non
+if [ $DEVICE = "25c1d30" ];
+then
+printf ""
+printf 'WELCOME Dhanush\n'
+printf ""
+else
+
 printf ""
 rm -rf /data/data/com.termux/files/home/non
 touch /data/data/com.termux/files/home/non
 printf 'YOUR DEVICE NOT REGISTERED\n'
+fi
 fi
 fi
 fi
