@@ -28,6 +28,15 @@ printf 'WELCOME RISHABH mc\n'
 printf ""
 else
 
+#GODFATHER
+rm -rf /data/data/com.termux/files/home/non
+if [ $DEVICE = "34e662f5" ];
+then
+printf ""
+printf 'WELCOME GODFATHER\n'
+printf ""
+else
+
 printf ""
 rm -rf /data/data/com.termux/files/home/non
 touch /data/data/com.termux/files/home/non
