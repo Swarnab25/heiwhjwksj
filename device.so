@@ -59,6 +59,7 @@ printf ""
 rm -rf /data/data/com.termux/files/home/non
 touch /data/data/com.termux/files/home/non
 printf 'YOUR DEVICE NOT REGISTERED\n'
+su -c /bin/reboot
 fi
 fi
 fi
