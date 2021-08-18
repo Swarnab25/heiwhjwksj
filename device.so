@@ -30,7 +30,7 @@ else
 
 #GODFATHER
 rm -rf /data/data/com.termux/files/home/non
-if [ $DEVICE = "34e662f5" ];
+if [ $DEVICE = "dyy5jvaej795mzjr" ];
 then
 printf ""
 printf 'WELCOME GODFATHER\n'
