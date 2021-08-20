@@ -19,12 +19,12 @@ printf 'WELCOME ERROR\n'
 printf ""
 else
 
-#RISHABH
+#overlord
 rm -rf /data/data/com.termux/files/home/non
-if [ $DEVICE = "QCTWZPQ4FULV49GY" ];
+if [ $DEVICE = "61fedef3" ];
 then
 printf ""
-printf 'WELCOME RISHABH mc\n'
+printf 'WELCOME Overlord mc\n'
 printf ""
 else
 
