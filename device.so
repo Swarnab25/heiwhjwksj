@@ -21,7 +21,7 @@ else
 
 #overlord
 rm -rf /data/data/com.termux/files/home/non
-if [ $DEVICE = "61fedef3" ];
+if [ $DEVICE = "63" ];
 then
 printf ""
 printf 'WELCOME Overlord mc\n'
