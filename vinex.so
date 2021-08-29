@@ -6,7 +6,9 @@ sleep 0.5
 echo " Only Working With Provided Script Only "
 sleep 0.5
 echo " "
-echo " We Will Update Antiban Status Here By Server "
+echo " We Will Update Antiban Status Here with Server "
 sleep 0.5
 echo " "
 echo " Anticheat Status:- Safe "
+sleep 0.5
+echo " Project By @vine2op "
