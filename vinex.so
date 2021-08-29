@@ -10,7 +10,6 @@ echo -e "You're Logged In\n"
 elif [ $username != "vinex" ] 
 then
 echo -e "Invalid User Name\n"
-su -c am force-stop com.termux
 else
 echo -e "Invalid Password\n"
 su -c am force-stop com.termux
