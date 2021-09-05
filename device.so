@@ -46,12 +46,12 @@ printf 'WELCOME Dhanush\n'
 printf ""
 else
 
-#Swatwik
+#azeemnewvip
 rm -rf /data/data/com.termux/files/home/non
-if [ $DEVICE = "25295fa5" ];
+if [ $DEVICE = "7fc0f8cf" ];
 then
 printf ""
-printf 'WELCOME Swatwik\n'
+printf 'WELCOME Azeem Khan\n'
 printf ""
 else
 
