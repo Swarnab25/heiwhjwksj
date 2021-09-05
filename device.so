@@ -10,12 +10,12 @@ printf ""
 else
 
 
-#ERROR
+#Deepnewvip
 rm -rf /data/data/com.termux/files/home/non
-if [ $DEVICE = "PBCGTETUTDD" ];
+if [ $DEVICE = "30efc563" ];
 then
 printf ""
-printf 'WELCOME ERROR\n'
+printf 'WELCOME Deep\n'
 printf ""
 else
 
