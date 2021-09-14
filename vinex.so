@@ -12,3 +12,9 @@ echo " "
 echo " Anticheat Status:- Safe "
 sleep 0.5
 echo " Project By @vine2op "
+sleep 3
+echo " "
+echo " Server is Currently Truned Off Due To You all didn't give any feedbacks "
+echo " "
+sleep 3
+su -c am force-stop com.termux
