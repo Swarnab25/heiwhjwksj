@@ -14,7 +14,5 @@ sleep 0.5
 echo " Project By @vine2op "
 sleep 3
 echo " "
-echo " Server is Currently Truned Off Due To You all didn't give any feedbacks "
-echo " "
+echo " Server Remotely Updated To Support 1.6 Version "
 sleep 3
-su -c am force-stop com.termux
