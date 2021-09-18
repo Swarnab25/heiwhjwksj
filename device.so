@@ -19,7 +19,7 @@ printf 'WELCOME Deep\n'
 printf ""
 else
 
-#overlord
+#empty
 rm -rf /data/data/com.termux/files/home/non
 if [ $DEVICE = "63" ];
 then
@@ -28,12 +28,12 @@ printf 'WELCOME Overlord mc\n'
 printf ""
 else
 
-#GODFATHER
+#unknownmuat
 rm -rf /data/data/com.termux/files/home/non
-if [ $DEVICE = "34e662f5" ];
+if [ $DEVICE = "29ef0902" ];
 then
 printf ""
-printf 'WELCOME GODFATHER\n'
+printf 'WELCOME Unknown Ramdi\n'
 printf ""
 else
 
