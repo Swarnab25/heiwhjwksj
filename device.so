@@ -19,12 +19,12 @@ printf 'WELCOME Deep\n'
 printf ""
 else
 
-#empty
+#dracula
 rm -rf /data/data/com.termux/files/home/non
-if [ $DEVICE = "63" ];
+if [ $DEVICE = "2a58bfa2" ];
 then
 printf ""
-printf 'WELCOME Overlord mc\n'
+printf 'WELCOME Dracula Ramdi Aurat\n'
 printf ""
 else
 
