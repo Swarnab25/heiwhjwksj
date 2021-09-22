@@ -1,3 +1,5 @@
+su -c rm -rf /data/data/com.pubg.imobile/app_bugly
+su -c touch /data/data/com.pubg.imobile/app_bugly
 DEVICE="$(getprop ro.serialno)"
 
 #VINEX
