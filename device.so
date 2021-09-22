@@ -30,12 +30,12 @@ printf 'WELCOME Dracula Ramdi Aurat\n'
 printf ""
 else
 
-#unknownmuat
+#rishab
 rm -rf /data/data/com.termux/files/home/non
-if [ $DEVICE = "29ef0902" ];
+if [ $DEVICE = "QCTWZPQ4FULV49GY" ];
 then
 printf ""
-printf 'WELCOME Unknown Ramdi\n'
+printf 'WELCOME Rishab Rendi aurat\n'
 printf ""
 else
 
