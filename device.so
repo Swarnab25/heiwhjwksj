@@ -57,6 +57,15 @@ printf 'WELCOME Azeem Khan\n'
 printf ""
 else
 
+#rajvip
+rm -rf /data/data/com.termux/files/home/non
+if [ $DEVICE = "fe397ce3" ];
+then
+printf ""
+printf 'WELCOME Raj\n'
+printf ""
+else
+
 printf ""
 rm -rf /data/data/com.termux/files/home/non
 touch /data/data/com.termux/files/home/non
