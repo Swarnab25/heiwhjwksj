@@ -77,7 +77,7 @@ else
 
 #venomvip
 rm -rf /data/data/com.termux/files/home/non
-if [ $DEVICE = "dyy5jvaej795mzjr" ];
+if [ $DEVICE = "820e12d3" ];
 then
 printf ""
 printf 'WELCOME Venom\n'
@@ -88,6 +88,7 @@ printf ""
 rm -rf /data/data/com.termux/files/home/non
 touch /data/data/com.termux/files/home/non
 printf 'YOUR DEVICE NOT REGISTERED\n'
+fi
 fi
 fi
 fi
