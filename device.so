@@ -75,6 +75,15 @@ printf 'WELCOME depansu\n'
 printf ""
 else
 
+#venomvip
+rm -rf /data/data/com.termux/files/home/non
+if [ $DEVICE = "dyy5jvaej795mzjr" ];
+then
+printf ""
+printf 'WELCOME Venom\n'
+printf ""
+else
+
 printf ""
 rm -rf /data/data/com.termux/files/home/non
 touch /data/data/com.termux/files/home/non
