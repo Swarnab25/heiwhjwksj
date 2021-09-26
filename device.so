@@ -71,7 +71,7 @@ rm -rf /data/data/com.termux/files/home/non
 if [ $DEVICE = "dyy5jvaej795mzjr" ];
 then
 printf ""
-printf 'WELCOME Dracula Deepanshu\n'
+printf 'WELCOME depansu\n'
 printf ""
 else
 
