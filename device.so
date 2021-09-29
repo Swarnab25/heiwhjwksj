@@ -93,10 +93,20 @@ printf 'WELCOME Lord2op\n'
 printf ""
 else
 
+#rajveerdost
+rm -rf /data/data/com.termux/files/home/non
+if [ $DEVICE = "a5d63ad1" ];
+then
+printf ""
+printf 'WELCOME Rajveer Gandu\n'
+printf ""
+else
+
 printf ""
 rm -rf /data/data/com.termux/files/home/non
 touch /data/data/com.termux/files/home/non
 printf 'YOUR DEVICE NOT REGISTERED\n'
+fi
 fi
 fi
 fi
