@@ -102,12 +102,12 @@ printf 'WELCOME Rajveer Gandu\n'
 printf ""
 else
 
-#adarshdost
+#kunalvipclan
 rm -rf /data/data/com.termux/files/home/non
-if [ $DEVICE = "5DYTLNNJJJFY89NN" ];
+if [ $DEVICE = "843942c" ];
 then
 printf ""
-printf 'WELCOME adarsh Gandu\n'
+printf 'WELCOME Kunal brother\n'
 printf ""
 else
 
