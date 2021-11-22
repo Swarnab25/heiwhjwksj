@@ -31,12 +31,12 @@ sleep 4
 printf ""
 else
 
-#rishab
+#biswajitmuat
 rm -rf /data/data/com.termux/files/home/non
-if [ $DEVICE = "QCTWZPQ4FULV49GY" ];
+if [ $DEVICE = "Q89PO7HIO7DIBI9L" ];
 then
 printf ""
-printf 'WELCOME Rishab Rendi aurat\n'
+printf 'WELCOME Biswajit Rendi aurat\n'
 printf ""
 else
 
