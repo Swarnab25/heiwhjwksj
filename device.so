@@ -21,12 +21,13 @@ printf 'WELCOME Deep\n'
 printf ""
 else
 
-#dracula
+#rohitmuatclan
 rm -rf /data/data/com.termux/files/home/non
-if [ $DEVICE = "2a58bfa2" ];
+if [ $DEVICE = "151100b8" ];
 then
 printf ""
-printf 'WELCOME Dracula Ramdi Aurat\n'
+printf 'WELCOME rohit \n'
+sleep 4
 printf ""
 else
 
