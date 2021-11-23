@@ -40,12 +40,12 @@ printf 'WELCOME Biswajit Rendi aurat\n'
 printf ""
 else
 
-#Dhanush
+#terminatormuat
 rm -rf /data/data/com.termux/files/home/non
-if [ $DEVICE = "25c1d30" ];
+if [ $DEVICE = "351622fa" ];
 then
 printf ""
-printf 'WELCOME Dhanush\n'
+printf 'WELCOME Terminator\n'
 printf ""
 else
 
