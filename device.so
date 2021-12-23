@@ -12,12 +12,12 @@ printf ""
 else
 
 
-#rockkknew
+#crazyclan
 rm -rf /data/data/com.termux/files/home/non
-if [ $DEVICE = "e30e8a3d" ];
+if [ $DEVICE = "070c99457d29" ];
 then
 printf ""
-printf 'WELCOME rockk\n'
+printf 'WELCOME crazy\n'
 printf ""
 else
 
