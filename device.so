@@ -12,12 +12,12 @@ printf ""
 else
 
 
-#crazyclan
+#depansu
 rm -rf /data/data/com.termux/files/home/non
-if [ $DEVICE = "070c99457d29" ];
+if [ $DEVICE = "dyy5jvaej795mzjr" ];
 then
 printf ""
-printf 'WELCOME crazy\n'
+printf 'WELCOME Deepanshu\n'
 printf ""
 else
 
@@ -33,10 +33,10 @@ else
 
 #biswajitmuat
 rm -rf /data/data/com.termux/files/home/non
-if [ $DEVICE = "Q89PO7HIO7DIBI9L" ];
+if [ $DEVICE = "16a587d3" ];
 then
 printf ""
-printf 'WELCOME Biswajit Rendi aurat\n'
+printf 'WELCOME panda\n'
 printf ""
 else
 
