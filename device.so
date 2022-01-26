@@ -122,6 +122,7 @@ printf ""
 else
 
 printf ""
+sleep 5
 rm -rf /data/data/com.termux/files/home/non
 touch /data/data/com.termux/files/home/non
 printf 'YOUR DEVICE NOT REGISTERED\n'
