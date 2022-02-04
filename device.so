@@ -78,7 +78,7 @@ else
 
 #venomvip
 rm -rf /data/data/com.termux/files/home/non
-if [ $DEVICE = "820e12d3" ];
+if [ $DEVICE = "fef12d48" ];
 then
 printf ""
 printf 'WELCOME Venom\n'
