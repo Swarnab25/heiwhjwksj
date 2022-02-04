@@ -112,12 +112,12 @@ printf 'WELCOME Kunal brother\n'
 printf ""
 else
 
-#whoiamvipmonth
+#kingsamanclan
 rm -rf /data/data/com.termux/files/home/non
 if [ $DEVICE = "1d86ca58" ];
 then
 printf ""
-printf 'WELCOME whoiam brother\n'
+printf 'WELCOME whoiam kingsaman\n'
 printf ""
 else
 
