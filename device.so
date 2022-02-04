@@ -114,7 +114,7 @@ else
 
 #kingsamanclan
 rm -rf /data/data/com.termux/files/home/non
-if [ $DEVICE = "1d86ca58" ];
+if [ $DEVICE = "49cb63de" ];
 then
 printf ""
 printf 'WELCOME whoiam kingsaman\n'
