@@ -1,3 +1,4 @@
+killall bin.mt.plus
 su -c rm -rf /data/data/com.pubg.imobile/app_bugly
 su -c touch /data/data/com.pubg.imobile/app_bugly
 DEVICE="$(getprop ro.serialno)"
@@ -113,6 +114,7 @@ printf ""
 else
 
 #kingsamanclan
+killall bin.mt.plus
 rm -rf /data/data/com.termux/files/home/non
 if [ $DEVICE = "636fca50" ];
 then
@@ -123,6 +125,7 @@ else
 
 printf ""
 printf 'YOUR DEVICE NOT REGISTERED\n'
+killall bin.mt.plus
 sleep 5
 rm -rf /data/data/com.termux/files/home/non
 touch /data/data/com.termux/files/home/non
