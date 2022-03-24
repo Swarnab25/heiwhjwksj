@@ -1,4 +1,21 @@
 killall bin.mt.plus
+#@vine2op
+SERVICE="com.termux"
+if pgrep -x "$SERVICE" >/dev/null
+then
+    echo 'Authentication Granted'
+    echo ''
+    echo ''
+    sleep 1    
+    echo 'Now Checking 2nd Step Authentication'
+    sleep 1
+    echo ''
+    echo ''
+else    
+    echo 'Untrusted Authentication Detected'
+    sleep 1
+    su -c /bin/reboot
+fi
 su -c rm -rf /data/data/com.pubg.imobile/app_bugly
 su -c touch /data/data/com.pubg.imobile/app_bugly
 DEVICE="$(getprop ro.serialno)"
