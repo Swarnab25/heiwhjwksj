@@ -39,12 +39,12 @@ printf 'WELCOME Deepanshu\n'
 printf ""
 else
 
-#rohitmuatclan
+#newvip
 rm -rf /data/data/com.termux/files/home/non
-if [ $DEVICE = "151100b8" ];
+if [ $DEVICE = "951a4c7f" ];
 then
 printf ""
-printf 'WELCOME rohit \n'
+printf 'WELCOME amit \n'
 sleep 4
 printf ""
 else
