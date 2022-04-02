@@ -51,10 +51,10 @@ else
 
 #biswajitmuat
 rm -rf /data/data/com.termux/files/home/non
-if [ $DEVICE = "16a587d3" ];
+if [ $DEVICE = "f1e5ed9b" ];
 then
 printf ""
-printf 'WELCOME panda\n'
+printf 'WELCOME Dr saab\n'
 printf ""
 else
 
