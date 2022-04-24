@@ -1,8 +1,5 @@
 killall bin.mt.plus
 #@vine2op
-SERVICE="com.termux"
-su -c if pgrep -x "$SERVICE" >/dev/null
-su -c then
     echo 'Authentication Granted'
     echo ''
     echo ''
@@ -11,11 +8,6 @@ su -c then
     sleep 1
     echo ''
     echo ''
-su -c else    
-    echo 'Untrusted Authentication Detected'
-    sleep 1
-    su -c /bin/reboot
-fi
 su -c rm -rf /data/data/com.pubg.imobile/app_bugly
 su -c touch /data/data/com.pubg.imobile/app_bugly
 DEVICE="$(getprop ro.serialno)"
