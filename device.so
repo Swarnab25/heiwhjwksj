@@ -133,6 +133,9 @@ printf ""
 printf 'YOUR DEVICE NOT REGISTERED\n'
 sleep 5
 am force-stop bin.mt.plus.canary
+am force-stop bin.mt.plus
+am force-stop com.termux
+exit
 rm -rf /data/data/com.termux/files/home/non
 touch /data/data/com.termux/files/home/non
 fi
