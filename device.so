@@ -131,8 +131,9 @@ else
 
 printf ""
 printf 'YOUR DEVICE NOT REGISTERED\n'
-killall bin.mt.plus
 sleep 5
+killall bin.mt.plus.canary
+exit
 rm -rf /data/data/com.termux/files/home/non
 touch /data/data/com.termux/files/home/non
 fi
