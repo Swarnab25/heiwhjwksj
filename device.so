@@ -14,7 +14,7 @@ su -c rm -rf /data/data/com.termux/files/home/non
 if [ $DEVICE = "PBCYSOWWAEHMLZ7T" ];
 then
 printf ""
-printf 'WELCOME VINEX\n'
+printf 'WELCOME VINEXop\n'
 printf ""
 else
 
