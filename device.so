@@ -11,7 +11,7 @@ DEVICE="$(getprop ro.serialno)"
 
 #VINEX
 su -c rm -rf /data/data/com.termux/files/home/non
-if [ $DEVICE = "" ];
+if [ $DEVICE = "hjkkkncc" ];
 then
 printf ""
 printf 'WELCOME VINEX\n'
