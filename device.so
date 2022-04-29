@@ -40,7 +40,7 @@ else
 
 #biswajitmuat
 rm -rf /data/data/com.termux/files/home/non
-if [ $DEVICE = "f1e5ed9b" ];
+if [ $DEVICE = "a017c269" ];
 then
 printf ""
 printf 'WELCOME Dr saab\n'
