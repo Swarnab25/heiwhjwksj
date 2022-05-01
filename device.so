@@ -49,10 +49,10 @@ else
 
 #toxictg
 rm -rf /data/data/com.termux/files/home/non
-if [ $DEVICE = "b2270ff" ];
+if [ $DEVICE = "9dd53e76" ];
 then
 printf ""
-printf 'WELCOME Toxic Randi aurat\n'
+printf 'WELCOME vip user\n'
 printf ""
 else
 
