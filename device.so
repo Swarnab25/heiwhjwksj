@@ -94,10 +94,10 @@ else
 
 #lord2op vip
 rm -rf /data/data/com.termux/files/home/non
-if [ $DEVICE = "87fac6c6" ];
+if [ $DEVICE = "afbb77b2" ];
 then
 printf ""
-printf 'WELCOME Lord2op\n'
+printf 'WELCOME user\n'
 printf ""
 else
 
