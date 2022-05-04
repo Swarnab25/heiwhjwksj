@@ -67,10 +67,10 @@ else
 
 #rajvip
 rm -rf /data/data/com.termux/files/home/non
-if [ $DEVICE = "fe397ce3" ];
+if [ $DEVICE = "e3d2e9cd" ];
 then
 printf ""
-printf 'WELCOME Raj\n'
+printf 'WELCOME Sarkar \n'
 printf ""
 else
 
