@@ -24,7 +24,7 @@ read password
 if [[ $username == "vinex"  && $password == "op" ]]
 then
 echo -e "You're Logged In\n"
-#enter your script here
+#vinxopp
 elif [ $username != "yourusernamehere" ] 
 then
 echo -e "Invalid Username\n"
