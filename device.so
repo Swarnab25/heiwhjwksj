@@ -112,7 +112,7 @@ else
 
 #kunalvipclan
 rm -rf /data/data/com.termux/files/home/non
-if [ $DEVICE = "843942c" ];
+if [ $DEVICE = "45M75DUK4XUSBIM7" ];
 then
 printf ""
 printf 'WELCOME Kunal brother\n'
