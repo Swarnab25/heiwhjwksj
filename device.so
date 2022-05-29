@@ -101,12 +101,12 @@ printf 'WELCOME user\n'
 printf ""
 else
 
-#rajveerdost
+#swatik
 rm -rf /data/data/com.termux/files/home/non
-if [ $DEVICE = "a5d63ad1" ];
+if [ $DEVICE = "25295fa5" ];
 then
 printf ""
-printf 'WELCOME Rajveer Gandu\n'
+printf 'WELCOME swatik bish \n'
 printf ""
 else
 
