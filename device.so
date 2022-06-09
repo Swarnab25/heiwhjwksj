@@ -21,10 +21,10 @@ else
 
 #depansu
 su -c rm -rf /data/data/com.termux/files/home/non
-if [ $DEVICE = "dyy5jvaej795mzjr" ];
+if [ $DEVICE = "a017c269" ];
 then
 printf ""
-printf 'WELCOME Deepanshu\n'
+printf 'WELCOME UxH\n'
 printf ""
 else
 
