@@ -1,4 +1,4 @@
-#@vine2op
+#@om
     echo 'Authentication Granted'
     echo ''
     echo ''
@@ -14,7 +14,7 @@ su -c rm -rf /data/data/com.termux/files/home/non
 if [ $DEVICE = "PBCYSOWWAEHMLZ7T" ];
 then
 printf ""
-printf 'WELCOME VINEXop\n'
+printf 'WELCOME OM vai\n'
 printf ""
 else
 
