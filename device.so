@@ -1,4 +1,4 @@
-#@om
+#om
     echo 'Authentication Granted'
     echo ''
     echo ''
@@ -8,13 +8,14 @@
     echo ''
     echo ''
 DEVICE="$(getprop ro.serialno)"
+echo " $DEVICE "
 
 #VINEX
 su -c rm -rf /data/data/com.termux/files/home/non
-if [ $DEVICE = "PBCYSOWWAEHMLZ7T" ];
+if [ $DEVICE = "6TUGMZCYAEW8SGBY" ];
 then
 printf ""
-printf 'WELCOME OM vai\n'
+printf 'WELCOME to VINEXERA Amit \n'
 printf ""
 else
 
